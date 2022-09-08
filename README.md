@@ -2,7 +2,7 @@
 
 [![Build status](https://img.shields.io/github/workflow/status/digitalbazaar/multikey-context/Node.js%20CI)](https://github.com/digitalbazaar/multikey-context/actions?query=workflow%3A%22Node.js+CI%22)
 [![Coverage status](https://img.shields.io/codecov/c/github/digitalbazaar/multikey-context)](https://codecov.io/gh/digitalbazaar/multikey-context)
-[![NPM Version](https://img.shields.io/npm/v/multikey-context.svg)](https://npm.im/multikey-context)
+[![NPM Version](https://img.shields.io/npm/v/@digitalbazaar/multikey-context.svg)](https://npm.im/@digitalbazaar/multikey-context)
 
 > A Multikey context library for JavaScript.
 
