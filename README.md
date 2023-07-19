@@ -18,7 +18,8 @@
 
 See also (related specs):
 
-* [Data Integrity v1.0](https://w3c.github.io/vc-data-integrity/)
+- [Data Integrity v1.0](https://w3c.github.io/vc-data-integrity/)
+- [Data Integrity EdDSA Cryptosuites v1.0](https://www.w3.org/TR/vc-di-eddsa/)
 
 ## Install
 
@@ -53,6 +54,7 @@ applications.
 ## API
 
 The library exports the following properties:
+
 - `CONTEXT_URL`
 - `CONTEXT`
 - `constants`: A Object that maps constants to well-known context URLs. The
