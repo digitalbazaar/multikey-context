@@ -1,6 +1,6 @@
 # @digitalbazaar/multikey-context ChangeLog
 
-## 2.0.0 - 2023-11-dd
+## 2.0.0 - 2023-11-15
 
 ### Added
 - Add `expires` term.
