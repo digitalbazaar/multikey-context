@@ -5,6 +5,9 @@
 ### Added
 - Add `expires` term.
 
+### Changed
+- Require node >= 18.
+
 ## 1.0.0 - 2022-09-08
 
 ### Added
