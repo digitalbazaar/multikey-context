@@ -1,6 +1,6 @@
 # @digitalbazaar/multikey-context ChangeLog
 
-## 2.0.1 - 2024-02-xx
+## 2.0.1 - 2024-02-02
 
 ### Changed
 - Test on Node.js 18 and 20.
