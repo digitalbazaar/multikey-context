@@ -1,5 +1,10 @@
 # @digitalbazaar/multikey-context ChangeLog
 
+## 2.0.1 - 2024-02-xx
+
+### Fixed
+- Distribute built ESM files.
+
 ## 2.0.0 - 2023-11-15
 
 ### Added
